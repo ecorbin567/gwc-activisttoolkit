@@ -71,7 +71,7 @@ li a:hover{
   position: absolute;
   left: 10%;
   right: 10%;
-  top: 50%;
+  top: 10%;
 }
 
 .flex-container-resources {
@@ -102,7 +102,7 @@ li a:hover{
   position: absolute;
   left: 10%;
   right: 10%;
-  top: 10%;
+  top: 50%;
 }
 
 .heading-home {
