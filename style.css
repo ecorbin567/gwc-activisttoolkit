@@ -232,7 +232,7 @@ li a:hover{
 
   .flex-container {
     flex-wrap: wrap;
-    top: 30%;
+    top: 20%;
   }
   .flex-container-resources {
     flex-wrap: wrap;
@@ -260,7 +260,7 @@ li a:hover{
     flex-wrap: wrap;
     left: 25%;
     right: 25%;
-    top: 30%;
+    top: 20%;
   }
   .flex-container-resources {
     flex-wrap: wrap;
@@ -311,7 +311,7 @@ li a:hover{
     flex-wrap: nowrap;
     left: 25%;
     right: 25%;
-    top: 50%;
+    top: 20%;
   }
   .flex-container-resources {
     flex-wrap: nowrap;
